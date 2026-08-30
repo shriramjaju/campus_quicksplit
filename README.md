@@ -67,8 +67,16 @@ lib/
 
 ## Screenshots
 
-_(add screenshots here)_
+**Home screen — balance dashboard**
+![Home screen](screenshots/home_screen.png)
+
+**Activity log**
+![Activity log](screenshots/activity_log.png)
+
+**Input validation**
+![Validation error](screenshots/validation_error.png)
 
 ## Demo Video
 
-_(add Google Drive link here)_
+[Watch the demo on Google Drive](https://drive.google.com/file/d/1NiH1pGV-DmIVDK0U_ZV9woc_ZZbiBt7F/view?usp=sharing)
+
